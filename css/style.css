@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+img {
+    height: 40%;
+    width: 30%;
+    margin-right: 20px;
+}
+
+#images {
+    height: 100vh;
+    padding-left: 20px;
+}
+
+#images-heading {
+    padding: 10px 20px 10px 20px;
+    font-size: 2rem;
+}
+
+#audio {
+    height: 50vh;
+    padding-left: 20px;
+}
+
+#audio-heading {
+    padding: 10px 20px 10px 20px;
+    font-size: 2rem;
+}
+
+audio {
+    display: block;
+    margin-top: 20px;
+}
+
+#video {
+    height: 50vh;
+    padding-left: 20px;
+}
+
+#video-heading {
+    padding: 10px 20px 10px 20px;
+    font-size: 2rem;
+}
+
+video {
+    display: block;
+    margin-bottom: 20px;
+}
